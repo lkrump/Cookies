@@ -1,4 +1,4 @@
-application: myapp
-version: alpha-001
+application: Cookies
+version: Cookies-1278
 runtime: php55
 api_version: 1
